@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "CD1C7E4D6826F1D95D6435A416891BDB",
+  "keywordClasses": [
+    {
+      "name": "com.customChromeBrowser.pdfBrowser",
+      "keywordMethods": [
+        {
+          "name": "launchBrowser",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

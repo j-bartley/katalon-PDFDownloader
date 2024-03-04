@@ -1,0 +1,42 @@
+{
+  "keywordFileContentHash": "54D9EB5CC359F21E2F5F5FF94BE3A42F",
+  "keywordClasses": [
+    {
+      "name": "com.pdf.reader.ReadPdfFromBrowser",
+      "keywordMethods": [
+        {
+          "name": "PdfReaderUtil",
+          "parameters": [
+            {
+              "name": "html",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "driver",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "org.openqa.selenium.WebDriver",
+                "unresolvedClassName": "WebDriver",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
